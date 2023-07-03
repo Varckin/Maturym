@@ -79,7 +79,7 @@ class DialogAboutWindow(QtWidgets.QDialog):
 
     def setupDialogAboutWindow(self):
 
-        Info_About = "Создатель: Чебурашка\nВерсия: 0.87\nЛюблю свою Матурымку ♡"
+        Info_About = "Создатель: Markus Varckin\nВерсия: 1.02"
         title_About = QtWidgets.QLabel(Info_About)
 
 
